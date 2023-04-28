@@ -1,6 +1,20 @@
-title: Minimal theme
+title: <p align="center"> Tanisha Sinha </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/tanishasinha21/">LinkedIn</a> |
+  <a href="https://github.com/TanishaS21">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, Big Data and Spark.
+  Also handing the Big Data from real-time Ad call data.
+  Worked with Optus Telecom in Big Data Engineering team.
+  Working in Telecom domain for 6 years.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
